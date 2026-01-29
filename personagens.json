@@ -1,0 +1,196 @@
+[
+    {
+        "Name": "Sonic",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/1_sonic.jfif",
+        "Species": "Ouriço",
+        "Strength": "Alta",
+        "Power": "Supervelocidade, transformação",
+        "Acessories": "Botinhas, rings",
+        "First Appearance": "1991",
+        "First Game": "Sonic The Hedgehog - 1991",
+        "Initial Rel": "Protagonista",
+        "Current Rel": "Protagonista"
+    },
+
+    {
+        "Name": "Miles (Tails) Prower",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/2_tails.jfif",
+        "Species": "Raposa",
+        "Strength": "Baixa",
+        "Power": "Voo, inteligência alta",
+        "Acessories": "Avião Tornado, chave inglesa",
+        "First Appearance": "1992",
+        "First Game": "Sonic The Hedgehog 2 - 1992",
+        "Initial Rel": "Parceiro",
+        "Current Rel": "Melhor amigo"
+    },
+
+    {
+        "Name": "Knuckles",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/3_knuckles.jfif",
+        "Species": "Topeira",
+        "Strength": "Média",
+        "Power": "Planada, punho perfurante",
+        "Acessories": "Esmeralda Mestre",
+        "First Appearance": "1994",
+        "First Game": "Sonic The Hedgehog 3 - 1994",
+        "Initial Rel": "Inimigo",
+        "Current Rel": "Amigo"
+    },
+
+    {
+        "Name": "Amy",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/4_amy.jfif",
+        "Species": "Ouriço",
+        "Strength": "Baixa",
+        "Power": "---",
+        "Acessories": "Piko Piko Hammer",
+        "First Appearance": "1993",
+        "First Game": "Sonic CD - 1993",
+        "Initial Rel": "Amiga",
+        "Current Rel": "Amiga (friendzone)"
+    },
+
+    {
+        "Name": "Ivo Robotnik (Eggman)",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/5_eggman.jfif",
+        "Species": "Humano",
+        "Strength": "Média",
+        "Power": "Inteligência alta, robôs",
+        "Acessories": "Óculos, tecnologias variadas",
+        "First Appearance": "1991",
+        "First Game": "Sonic The Hedgehog - 1991",
+        "Initial Rel": "Amigo",
+        "Current Rel": "Arqui-inimigo"
+    },
+
+    {
+        "Name": "Metal Sonic",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/6_metalsonic.jfif",
+        "Species": "Robô",
+        "Strength": "Média",
+        "Power": "Voo, supervelocidade, descargas elétricas, escudo de energia",
+        "Acessories": "---",
+        "First Appearance": "1993",
+        "First Game": "Sonic CD - 1993",
+        "Initial Rel": "Inimigo",
+        "Current Rel": "Inimigo"
+    },
+
+    {
+        "Name": "Fang",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/7_fang.jfif",
+        "Species": "Jerboa",
+        "Strength": "Baixa",
+        "Power": "Acrobacia, boa mira",
+        "Acessories": "Popgun (arma), chapéu, veículo",
+        "First Appearance": "1994",
+        "First Game": "Sonic the Hedgehog: Triple Trouble - 1994",
+        "Initial Rel": "Inimigo",
+        "Current Rel": "Aliado/Inimigo oportunista"
+    },
+
+    {
+        "Name": "Charmy",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/8_charmy.jfif",
+        "Species": "Abelha",
+        "Strength": "Baixa",
+        "Power": "Voo",
+        "Acessories": "Óculos",
+        "First Appearance": "1992",
+        "First Game": "Knuckles' Chaotix - 1995",
+        "Initial Rel": "Nenhuma",
+        "Current Rel": "Aliado"
+    },
+
+    {
+        "Name": "Espio",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/9_espio.jfif",
+        "Species": "Camaleão",
+        "Strength": "Média",
+        "Power": "Camuflagem, velocidade, agilidade, pontaria, ninjutsu",
+        "Acessories": "Kunais, shurikens, bombas, corda",
+        "First Appearance": "1995",
+        "First Game": "Knuckles' Chaotix - 1995",
+        "Initial Rel": "Nenhuma",
+        "Current Rel": "Aliado"
+    },
+
+    {
+        "Name": "Mighty",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/10_mighty.jfif",
+        "Species": "Tatu",
+        "Strength": "Média",
+        "Power": "Força, alta resistência, escalada",
+        "Acessories": "---",
+        "First Appearance": "1993",
+        "First Game": "SegaSonic the Hedgehog - 1993",
+        "Initial Rel": "Aliado",
+        "Current Rel": "Amigo"
+    },
+
+    {
+        "Name": "Ray",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/11_ray.jfif",
+        "Species": "Esquilo-voador",
+        "Strength": "Baixa",
+        "Power": "Planada, acrobacias no ar",
+        "Acessories": "---",
+        "First Appearance": "1993",
+        "First Game": "SegaSonic the Hedgehog - 1993",
+        "Initial Rel": "Aliado",
+        "Current Rel": "Amigo"
+    },
+
+    {
+        "Name": "Vector",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/12_vector.jfif",
+        "Species": "Crocodilo",
+        "Strength": "Média",
+        "Power": "Força, onda de impacto, mordida",
+        "Acessories": "Corrente, fone de ouvido, comunicadores",
+        "First Appearance": "1995",
+        "First Game": "Knuckles' Chaotix - 1995",
+        "Initial Rel": "Nenhuma",
+        "Current Rel": "Aliado"
+    },
+
+    {
+        "Name": "Big",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/13_big.jfif",
+        "Species": "Gato",
+        "Strength": "Baixa",
+        "Power": "Força, habilidades de pesca e natação",
+        "Acessories": "Vara de pesca, cinto",
+        "First Appearance": "1998",
+        "First Game": "Sonic Adventure - 1998",
+        "Initial Rel": "Nenhuma",
+        "Current Rel": "Aliado"
+    },
+
+    {
+        "Name": "Chaos",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/14_chaos.jfif",
+        "Species": "---",
+        "Strength": "Alta",
+        "Power": "Transformação, imortalidade, elasticidade, manipulação de água, controle do caos",
+        "Acessories": "---",
+        "First Appearance": "1998",
+        "First Game": "Sonic Adventure - 1998",
+        "Initial Rel": "Inimigo",
+        "Current Rel": "Entidade selada"
+    },
+
+    {
+        "Name": "Shadow",
+        "Image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/15_shadow.jfif",
+        "Species": "Ouriço",
+        "Strength": "Alta",
+        "Power": "Controle do caos, teleporte, supervelocidade, transformação, flechas de energia",
+        "Acessories": "Patins, arma de fogo, anéis inibidores",
+        "First Appearance": "2001",
+        "First Game": "Sonic Adventure 2 - 2001",
+        "Initial Rel": "Inimigo",
+        "Current Rel": "Anti-herói rival"
+    }
+]
