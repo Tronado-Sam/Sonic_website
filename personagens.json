@@ -186,7 +186,7 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/15_shadow.png",
         "species": "Ouriço",
         "strength": "Alta",
-        "power": "Controle do caos, supervelocidade, energia",
+        "power": "Controle do caos, supervelocidade",
         "acessories": "Patins, arma, anéis",
         "first_appearance": "2001",
         "first_game": "Sonic Adventure 2 - 2001",
@@ -195,6 +195,7 @@
     }
 
 ]
+
 
 
 
