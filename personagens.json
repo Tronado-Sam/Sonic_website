@@ -83,7 +83,7 @@
         "species": "Jerboa",
         "strength": "Baixa",
         "power": "Acrobacia, boa mira",
-        "acessories": "Popgun (arma), chapéu, veículo",
+        "acessories": "Popgun, chapéu",
         "first_appearance": "1994",
         "first_game": "Sonic the Hedgehog: Triple Trouble - 1994",
         "initial_rel": "Inimigo",
@@ -108,8 +108,8 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/9_espio.png",
         "species": "Camaleão",
         "strength": "Média",
-        "power": "Camuflagem, agilidade, pontaria, ninjutsu",
-        "acessories": "Kunais, shurikens, bombas, corda",
+        "power": "Camuflagem, agilidade, ninjutsu",
+        "acessories": "Kunais, shurikens, bombas",
         "first_appearance": "1995",
         "first_game": "Knuckles' Chaotix - 1995",
         "initial_rel": "Nenhuma",
@@ -148,7 +148,7 @@
         "species": "Crocodilo",
         "strength": "Média",
         "power": "Força, onda de impacto, mordida",
-        "acessories": "Corrente, fone de ouvido, comunicadores",
+        "acessories": "Corrente, fones",
         "first_appearance": "1995",
         "first_game": "Knuckles' Chaotix - 1995",
         "initial_rel": "Nenhuma",
@@ -160,8 +160,8 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/13_big.png",
         "species": "Gato",
         "strength": "Baixa",
-        "power": "Força, habilidades de pesca e natação",
-        "acessories": "Vara de pesca, cinto",
+        "power": "Força, pesca e natação",
+        "acessories": "Vara de pesca",
         "first_appearance": "1998",
         "first_game": "Sonic Adventure - 1998",
         "initial_rel": "Nenhuma",
@@ -173,7 +173,7 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/14_chaos.png",
         "species": "---",
         "strength": "Alta",
-        "power": "Transformação, imortalidade, elasticidade, manipulação de água, controle do caos",
+        "power": "Imortalidade, controle do caos",
         "acessories": "---",
         "first_appearance": "1998",
         "first_game": "Sonic Adventure - 1998",
@@ -186,8 +186,8 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/15_shadow.png",
         "species": "Ouriço",
         "strength": "Alta",
-        "power": "Controle do caos, teleporte, supervelocidade, transformação, flechas de energia",
-        "acessories": "Patins, arma de fogo, anéis inibidores",
+        "power": "Controle do caos, supervelocidade, flechas de energia",
+        "acessories": "Patins, arma, anéis",
         "first_appearance": "2001",
         "first_game": "Sonic Adventure 2 - 2001",
         "initial_rel": "Inimigo",
@@ -195,5 +195,6 @@
     }
 
 ]
+
 
 
