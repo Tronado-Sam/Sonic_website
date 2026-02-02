@@ -18,7 +18,7 @@
         "species": "Raposa",
         "strength": "Baixa",
         "power": "Voo, inteligência alta",
-        "acessories": "Avião Tornado, chave inglesa",
+        "acessories": "Avião Tornado",
         "first_appearance": "1992",
         "first_game": "Sonic The Hedgehog 2 - 1992",
         "initial_rel": "Parceiro",
@@ -57,7 +57,7 @@
         "species": "Humano",
         "strength": "Média",
         "power": "Inteligência alta, robôs",
-        "acessories": "Óculos, tecnologias variadas",
+        "acessories": "Óculos, tecnologia",
         "first_appearance": "1991",
         "first_game": "Sonic The Hedgehog - 1991",
         "initial_rel": "Amigo",
@@ -108,7 +108,7 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/9_espio.png",
         "species": "Camaleão",
         "strength": "Média",
-        "power": "Camuflagem, velocidade, agilidade, pontaria, ninjutsu",
+        "power": "Camuflagem, agilidade, pontaria, ninjutsu",
         "acessories": "Kunais, shurikens, bombas, corda",
         "first_appearance": "1995",
         "first_game": "Knuckles' Chaotix - 1995",
@@ -195,4 +195,5 @@
     }
 
 ]
+
 
