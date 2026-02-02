@@ -1,7 +1,7 @@
 [
     {
         "name": "Sonic",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/1_sonic.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/1_sonic.png",
         "species": "Ouriço",
         "strength": "Alta",
         "power": "Supervelocidade, transformação",
@@ -14,7 +14,7 @@
 
     {
         "name": "Miles (Tails) Prower",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/2_tails.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/2_tails.png",
         "species": "Raposa",
         "strength": "Baixa",
         "power": "Voo, inteligência alta",
@@ -27,7 +27,7 @@
 
     {
         "name": "Knuckles",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/3_knuckles.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/3_knuckles.png",
         "species": "Topeira",
         "strength": "Média",
         "power": "Planada, punho perfurante",
@@ -40,7 +40,7 @@
 
     {
         "name": "Amy",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/4_amy.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/4_amy.png",
         "species": "Ouriço",
         "strength": "Baixa",
         "power": "---",
@@ -53,7 +53,7 @@
 
     {
         "name": "Ivo Robotnik (Eggman)",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/5_eggman.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/5_eggman.png",
         "species": "Humano",
         "strength": "Média",
         "power": "Inteligência alta, robôs",
@@ -66,7 +66,7 @@
 
     {
         "name": "Metal Sonic",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/6_metalsonic.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/6_metalsonic.png",
         "species": "Robô",
         "strength": "Média",
         "power": "Voo, supervelocidade, descargas elétricas, escudo de energia",
@@ -79,7 +79,7 @@
 
     {
         "name": "Fang",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/7_fang.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/7_fang.png",
         "species": "Jerboa",
         "strength": "Baixa",
         "power": "Acrobacia, boa mira",
@@ -92,7 +92,7 @@
 
     {
         "name": "Charmy",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/8_charmy.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/8_charmy.png",
         "species": "Abelha",
         "strength": "Baixa",
         "power": "Voo",
@@ -105,7 +105,7 @@
 
     {
         "name": "Espio",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/9_espio.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/9_espio.png",
         "species": "Camaleão",
         "strength": "Média",
         "power": "Camuflagem, velocidade, agilidade, pontaria, ninjutsu",
@@ -118,7 +118,7 @@
 
     {
         "name": "Mighty",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/10_mighty.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/10_mighty.png",
         "species": "Tatu",
         "strength": "Média",
         "power": "Força, alta resistência, escalada",
@@ -131,7 +131,7 @@
 
     {
         "name": "Ray",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/11_ray.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/11_ray.png",
         "species": "Esquilo-voador",
         "strength": "Baixa",
         "power": "Planada, acrobacias no ar",
@@ -144,7 +144,7 @@
 
     {
         "name": "Vector",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/12_vector.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/12_vector.png",
         "species": "Crocodilo",
         "strength": "Média",
         "power": "Força, onda de impacto, mordida",
@@ -157,7 +157,7 @@
 
     {
         "name": "Big",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/13_big.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/13_big.png",
         "species": "Gato",
         "strength": "Baixa",
         "power": "Força, habilidades de pesca e natação",
@@ -170,7 +170,7 @@
 
     {
         "name": "Chaos",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/14_chaos.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/14_chaos.png",
         "species": "---",
         "strength": "Alta",
         "power": "Transformação, imortalidade, elasticidade, manipulação de água, controle do caos",
@@ -183,7 +183,7 @@
 
     {
         "name": "Shadow",
-        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/refs/heads/main/Personagens/15_shadow.png",
+        "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/15_shadow.png",
         "species": "Ouriço",
         "strength": "Alta",
         "power": "Controle do caos, teleporte, supervelocidade, transformação, flechas de energia",
@@ -195,3 +195,4 @@
     }
 
 ]
+
