@@ -69,7 +69,7 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/6_metalsonic.png",
         "species": "Robô",
         "strength": "Média",
-        "power": "Voo, supervelocidade, descargas elétricas, escudo de energia",
+        "power": "Voo, supervelocidade, energia",
         "acessories": "---",
         "first_appearance": "1993",
         "first_game": "Sonic CD - 1993",
@@ -85,9 +85,9 @@
         "power": "Acrobacia, boa mira",
         "acessories": "Popgun, chapéu",
         "first_appearance": "1994",
-        "first_game": "Sonic the Hedgehog: Triple Trouble - 1994",
+        "first_game": "Sonic [...] Triple Trouble - 1994",
         "initial_rel": "Inimigo",
-        "current_rel": "Aliado/Inimigo oportunista"
+        "current_rel": "Oportunista"
     },
 
     {
@@ -186,7 +186,7 @@
         "image": "https://raw.githubusercontent.com/Tronado-Sam/Sonic_website/main/Personagens/15_shadow.png",
         "species": "Ouriço",
         "strength": "Alta",
-        "power": "Controle do caos, supervelocidade, flechas de energia",
+        "power": "Controle do caos, supervelocidade, energia",
         "acessories": "Patins, arma, anéis",
         "first_appearance": "2001",
         "first_game": "Sonic Adventure 2 - 2001",
@@ -195,6 +195,7 @@
     }
 
 ]
+
 
 
 
